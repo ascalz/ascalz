@@ -7,7 +7,6 @@ Hi, I'm sczlli
 > What I'm Focused On
 
 Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Security. I'm passionate about understanding how technology works, solving problems and building things along the way.
-
 > My Tech Stack & Tools
 
 <p align="center">
@@ -23,11 +22,15 @@ Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Sec
 </p>
 > Let's Connect
 
-[ Open to collaborate or playing CTFs and challanges together ]
+[ Open to collaborate or playing CTFs and challenges together ]
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/alessandro-scalzulli-abb99a15a/">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/2276914">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack_The_Box-1F2F3D%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="Hack The Box"/>
 </a>
 &nbsp;
 <a href="mailto:alessandro.scalzulli809@gmail.com">
