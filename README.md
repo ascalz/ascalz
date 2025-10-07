@@ -1,8 +1,6 @@
 <div align="center">
 Hi, I'm sczlli
 
-[ Currently Learning... ]
-
 </div>
 > What I'm Focused On
 
@@ -11,14 +9,14 @@ Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Sec
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ansible-EE0000%3Fstyle%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite" alt="Ansible"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3DGNU%2520Bash%26logoColor%3Dwhite" alt="Bash"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-76428A%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite" alt="Nmap"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
+<img src="https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000%3Fstyle%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3DGNU%2520Bash%26logoColor%3Dwhite" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-76428A%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 </p>
 > Let's Connect
 
@@ -29,7 +27,7 @@ Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Sec
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/2276914">
+<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/YOUR-USER-ID">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack_The_Box-1F2F3D%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="Hack The Box"/>
 </a>
 &nbsp;
