@@ -3,7 +3,7 @@ Hi, I'm sczlli
 
 </div>
 
-    🔭 I’m currently working on Linux, Network Automation, DevSecOps, CI/CD, and the Secure Development Lifecycle.
+    🔭 I’m currently working on Linux, Network Automation, DevSecOps, CI/CD, and Secure Software Development Lifecycle.
 
     🌱 I’m always learning various technologies that interest me.
 
