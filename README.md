@@ -24,7 +24,6 @@ Hi, I'm sczlli
 </p>
 > Let's Connect!
 
-[ Open to collaborate or playing CTFs and challenges together ]
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/alessandro-scalzulli-abb99a15a/">
