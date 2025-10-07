@@ -3,13 +3,13 @@ Hi, I'm sczlli
 
 </div>
 
-    🔭 I’m currently working on Linux, Network Automation, DevSecOps, CI/CD, and Secure Software Development Lifecycle.
+    🔭 I’m currently working on Linux, Network Automation, DevSecOps and ethical hacking.
 
     🌱 I’m always learning various technologies that interest me.
 
-    💬 Ask me about Linux, Networking, Ethical Hacking, and DevOps.
+    💬 Ask me about Linux 🐧, System Administration 👨‍💻, Networking 🌐, and DevOps.
 
-    😄 Hobbies: I love making music with drum machines and synths, skateboarding, and photography.
+    😄 Hobbies: synths 🎹, photography 📸, skateboarding 🛹.
 
 > My Tech Stack & Tools
 
