@@ -1,28 +1,28 @@
 <div align="center">
 Hi, I'm sczlli
-<p align="left">  </p>
-- 🔭 I’m currently working on Linux, Network automation, DevSecOps, CI/CD, Secure development lifecycle.
-- 🌱 I’m currently learning various tech that interests me
-- 💬 Ask me about Linux, Networking, Ethical hacking, DevOps.
-- 😄 Hobbies: I love making music with drum machines and synth, Skateboarding, Photography.
-- ⚡ Fun fact: 
 
 </div>
-> What I'm Focused On
 
-Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Security. I'm passionate about understanding how technology works, solving problems and building things along the way.
-> My Tech Stack & Tools  [ Currently Learning... ]  
+    🔭 I’m currently working on Linux, Network Automation, DevSecOps, CI/CD, and the Secure Development Lifecycle.
+
+    🌱 I’m always learning various technologies that interest me.
+
+    💬 Ask me about Linux, Networking, Ethical Hacking, and DevOps.
+
+    😄 Hobbies: I love making music with drum machines and synths, skateboarding, and photography.
+
+> My Tech Stack & Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
 </p>
-> Let's Connect !
+> Let's Connect!
 
 [ Open to collaborate or playing CTFs and challenges together ]
 
