@@ -1,6 +1,6 @@
 <div align="center">
 Hi, I'm sczlli
-
+<p align="left"> 
 - 🔭 I’m currently working on Linux, Network automation, DevSecOps, CI/CD, Secure development lifecycle.
 - 🌱 I’m currently learning various tech that interests me
 - 💬 Ask me about Linux, Networking, Ethical hacking, DevOps.
