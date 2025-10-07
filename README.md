@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 Hi, I'm sczlli
 
 </div>
@@ -31,7 +31,7 @@ Hi, I'm sczlli
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/YOUR-USER-ID](https://app.hackthebox.com/profile/#2276914">
+<a href="https://www.google.com/search?q=https://app.hackthebox.com/profile/#2276914">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack_The_Box-1F2F3D%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="Hack The Box"/>
 </a>
 &nbsp;
