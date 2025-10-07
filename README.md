@@ -1,11 +1,17 @@
 <div align="center">
 Hi, I'm sczlli
 
+- 🔭 I’m currently working on Linux, Network automation, DevSecOps, CI/CD, Secure development lifecycle.
+- 🌱 I’m currently learning various tech that interests me
+- 💬 Ask me about Linux, Networking, Ethical hacking, DevOps.
+- 😄 Hobbies: I love making music with drum machines and synth, Skateboarding, Photography.
+- ⚡ Fun fact: 
+
 </div>
 > What I'm Focused On
 
 Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Security. I'm passionate about understanding how technology works, solving problems and building things along the way.
-> My Tech Stack & Tools
+> My Tech Stack & Tools  [ Currently Learning... ]  
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -16,7 +22,7 @@ Right now, I'm diving deep into the worlds of DevOps, Linux, Networking, and Sec
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
 </p>
-> Let's Connect
+> Let's Connect !
 
 [ Open to collaborate or playing CTFs and challenges together ]
 
