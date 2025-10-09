@@ -23,18 +23,9 @@ Hi, I'm sczlli
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
 </p>
 > Let's Connect!
-
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/alessandro-scalzulli-abb99a15a/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://app.hackthebox.com/profile/#2276914">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hack_The_Box-1F2F3D%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite" alt="Hack The Box"/>
-</a>
-&nbsp;
-<a href="mailto:alessandro.scalzulli809@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-</p>
+<div
+        <div class="badge-container">
+            <a href="https://app.hackthebox.com/profile/2276914" target="_blank">
+                <img src="https://img.shields.io/badge/View_HTB_Profile-00D26A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
+            </a>
+            
