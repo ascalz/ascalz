@@ -1,6 +1,5 @@
 <div align="left">
-Hi 👋, I'm Scal
-
+Hi 👋, I'm Ales
 </div>
 
     🔭 I’m currently working on Linux, Network Automation, DevSecOps and ethical hacking.
