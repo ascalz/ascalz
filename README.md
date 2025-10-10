@@ -1,5 +1,5 @@
 <div align="left">
-Hi 👋, I'm Ales.
+Hi there👋, I'm Ales.
 </div>
 
     🔭 I’m currently working on Linux, Network Automation, DevSecOps and ethical hacking.
