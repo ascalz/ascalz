@@ -7,8 +7,7 @@
 <br>
 
 ### `$ whoami`
-
-# Alessandro Scalzulli
+## Alessandro Scalzulli
 
 **Currently focused on:**  
 🔭 Linux internals • Network automation • DevSecOps pipelines • Ethical hacking  
