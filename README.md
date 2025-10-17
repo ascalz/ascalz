@@ -11,10 +11,10 @@
 
 **Currently focused on:**  
 🔭 Linux internals • Network automation • DevSecOps pipelines • Ethical hacking  
-🌱 Always exploring tech that sparks my interest  
+🌱 Always exploring various technology that sparks interest me  
 💬 Let's talk Linux 🐧 • SysAdmin 👨‍💻 • Networking 🌐 • DevOps 🚀
 
-**Off the grid:**  
+**Hobbies:**  
 Synths 🎹 • Photography 📸 • Skateboarding 🛹
 
 <br>
@@ -47,7 +47,7 @@ Synths 🎹 • Photography 📸 • Skateboarding 🛹
 <a href="https://app.hackthebox.com/profile/2276914" target="_blank">
   <img src="https://img.shields.io/badge/Hack_The_Box-00D26A?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
 </a>
-<a href="mailto:alessandro.scalzulli@gmail.com">
+<a href="mailto:alessandro.scalzulli809@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
