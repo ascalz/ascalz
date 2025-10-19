@@ -11,7 +11,7 @@
 
 **Currently focused on:**  
 🔭 Linux internals • Network automation • DevSecOps pipelines • Ethical hacking  
-🌱 Always exploring various technology that sparks interest me  
+🌱 Always exploring various technology that interest me  
 💬 Let's talk Linux 🐧 • SysAdmin 👨‍💻 • Networking 🌐 • DevOps 🚀
 
 **Hobbies:**  
