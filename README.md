@@ -10,7 +10,7 @@
 ## Alessandro Scalzulli
 
 **Currently focused on:**  
-🔭 Linux internals • Network automation • DevSecOps pipelines • Ethical hacking  
+🔭 Linux internals • Automation • DevSecOps pipelines • Ethical hacking  
 🌱 Always exploring various technology that interest me  
 💬 Let's talk Linux 🐧 • SysAdmin 👨‍💻 • Networking 🌐 • DevOps 🚀
 
